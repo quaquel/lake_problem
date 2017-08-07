@@ -11,3 +11,5 @@ The main content of the demo is in the jupyter notebook. lake_model.py and
 moro.py contain standalone aspects of the integrated demo. lake_model.py 
 contains the code for exploration, while moro contains a robust multi-objective
 optimization example. 
+
+try it yourself here: http://beta.mybinder.org/v2/gh/quaquel/lake_problem/master?filepath=lake_problem.ipynb 
